@@ -1,0 +1,2 @@
+def spanishbye():
+    print("adiós")

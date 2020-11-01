@@ -1,0 +1,2 @@
+def japanesebye():
+    print("Sayōnara")

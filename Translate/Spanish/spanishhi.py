@@ -1,0 +1,2 @@
+def spanishhi():
+    print("Hola")
